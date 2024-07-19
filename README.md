@@ -18,11 +18,5 @@ What do you need?
 > **IF YOU ARE NOT OPEN TO MODIFYING YOUR DEVICE OR YOU ARE AFRAID THAT YOUR DEVICE WILL BE BRICKED, PLEASE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, IF YOUR DEVICE IS BRICKED, IT IS AT YOUR OWN RISK!!! I DO AGAIN! YOU HAVE BEEN WARNED!!!**
 
 
-## Get Started
-
-- [Project Status](ProjectStatus.md)
-
-- [Installation](Installation.md)
-
-- [Uninstallation](uninstall.md)
-
+## Let's Started😆
+- [Preparation](Preparation.md)
