@@ -5,7 +5,7 @@
 > - This project is in development stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
 
 > [!WARNING]
-> **IF YOU AREN'T COMFORTABLE MODDING YOUR TABLET OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
+> **IF YOU ARE NOT OPEN TO MODIFYING YOUR DEVICE OR YOU ARE AFRAID THAT YOUR DEVICE WILL BE BRICKED, PLEASE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, IF YOUR DEVICE IS BRICKED, IT IS AT YOUR OWN RISK!!! I DO AGAIN! YOU HAVE BEEN WARNED!!!**
 
 
 ## Get Started
