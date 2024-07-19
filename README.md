@@ -1,4 +1,4 @@
-## Boot Lineage OS with Magisk root on your smart clock😋
+## Boot Lineage OS with Magisk root on your smart clock
 ## ⚠️ Warning
 > [!NOTE]
 > - We are not responsible for device damage, partition loss, PMIC death, RAM death, display IC death, CPU death, death of any cat or dog, nuclear war, or you getting fired because you forgot to reboot your Android to receive alerts..
@@ -10,9 +10,9 @@
 
 ## Get Started
 
-- [Project Status](guide/Project Status.md)
+- [Project Status](ProjectStatus.md)
 
-- [Installation](guide/Installation.md)
+- [Installation](Installation.md)
 
-- [Uninstallation](guide/uninstall.md)
+- [Uninstallation](uninstall.md)
 
