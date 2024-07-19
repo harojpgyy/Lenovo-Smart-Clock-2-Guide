@@ -6,6 +6,7 @@ What do you need?
 1, Brain 
 2, Patience
 3, Any computer that can use Android Debug Bridge
+4,Cables for data connections
 ```
 
 ****
